@@ -207,4 +207,4 @@ You can reach out to SweetScape Software through their official support page for
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-09-27 14:51:36 UTC
+**Last updated:** 2026-09-27 18:42:28 UTC
